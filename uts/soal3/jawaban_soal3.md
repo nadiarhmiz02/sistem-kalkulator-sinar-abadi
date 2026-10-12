@@ -136,7 +136,14 @@ Logika sistem purwarupa voucher kas keluar **telah sesuai** dengan ketentuan PSA
 
 ### E. Screenshot
 
-![NotebookLM Verifikasi](screenshot/notebooklm.png)
+![NotebookLM Source](screenshot/notebooklm_1_source.PNG)
+*Gambar 3: Source PSAK di NotebookLM.*
+
+![NotebookLM Jawaban 1](screenshot/notebooklm_2_jawaban.PNG)
+*Gambar 4: Jawaban NotebookLM bagian 1.*
+
+![NotebookLM Jawaban 2](screenshot/notebooklm_3_jawaban.PNG)
+*Gambar 5: Jawaban NotebookLM bagian 2.*
 
 *Gambar 3: Screenshot verifikasi PSAK menggunakan NotebookLM.*
 
